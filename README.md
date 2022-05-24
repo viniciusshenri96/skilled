@@ -253,19 +253,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
    > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 --- -->
+<br>
+
+---
 
 ## 🦸 Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
-  <img style="border-radius: 50%;" src="./assets/img/avatar.jpg" width="100px;" alt=""/>
- <br />
- <sub><b>Vinícius Henrique</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+<a href="https://www.frontendmentor.io/profile/viniciushenrique2015">
+  <!-- <img style="border-radius: 50%;" src="./assets/img/avatar.jpg" width="100px;" alt=""/> -->
+ <sub><h2 style="font-style: normal; color:">Vinícius Henrique</></sub>
  <br />
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho)  -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinícius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinícius-henrique-7a2533229/)](https://www.linkedin.com/in/vinícius-henrique-7a2533229/)
-[![Gmail Badge](https://img.shields.io/badge/-viniciush2015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciush2015@gmail.com)](mailto:viniciush2015@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-viniciush2015@gmail.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciush2015@gmail.com)](mailto:tgmarinho@gmail.com)
 
 ---
 
