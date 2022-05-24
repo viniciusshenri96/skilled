@@ -269,8 +269,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Linkedin Badge](https://img.shields.io/badge/-Vinícius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinícius-henrique-7a2533229/)](https://www.linkedin.com/in/vinícius-henrique-7a2533229/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciush2015@gmail.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciush2015@gmail.com)](mailto:tgmarinho@gmail.com)
 
----
-
 <!-- ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
