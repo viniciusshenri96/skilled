@@ -81,8 +81,28 @@ body {
   background: url(../img/image-hero-desktop.webp) no-repeat top -103px right -280px;
   background-size: 992px;
 }
-
+@media (max-width: 1360px) {
+  body {
+    background: url(../img/image-hero-desktop.webp) no-repeat top -73px right -300px;
+    background-size: 56.25rem;
+  }
+}
+.intro__img {
+  display: none;
+}
+@media (min-width: 1460px) {
+  body {
+    background-image: none;
+  }
+  .intro__img {
+    display: block;
+    position: absolute;
+    top: -380px;
+    left: 540px;
+  }
+}
 /* HEADER */
+
 .header {
   margin-top: 1.5rem;
   margin-bottom: 10.75rem;
@@ -101,6 +121,7 @@ body {
 .intro {
   max-width: 28.563rem;
   margin-bottom: 15.625rem;
+  position: relative;
 }
 .intro__info {
   margin-top: 1.813rem;
@@ -192,6 +213,7 @@ body {
 }
 
 /* responsive */
+
 @media (max-width: 75rem) {
   .courses {
     grid-template-columns: 1fr 1fr;
@@ -203,8 +225,8 @@ body {
 }
 @media (max-width: 66.25rem) {
   body {
-    background: url(../img/image-hero-desktop.webp) no-repeat top -73px right -300px;
-    background-size: 56.25rem;
+    background: url(../img/image-hero-desktop.webp) no-repeat top -73px right -320px;
+    background-size: 54.25rem;
   }
   .intro {
     max-width: 24.875rem;
@@ -233,9 +255,17 @@ body {
   .header__img {
     width: 5.563rem;
   }
+  .intro {
+    margin-bottom: 13.125rem;
+  }
+  .intro__info {
+    text-align: left;
+    /* max-width: 19.5rem; */
+    margin: 1.563rem 0 1.5rem 0;
+  }
 
   .btn__header {
-    padding: 0.688rem 1.5rem;
+    padding: 0.563rem 1.5rem 0.688rem 1.5rem;
     font-size: 1rem;
     line-height: 1.75;
   }
@@ -282,11 +312,14 @@ body {
     font-size: 1rem;
     line-height: 1.62;
   }
+  .btn__footer {
+    padding: 0.563rem 1.5rem 0.688rem 1.5rem;
+  }
 }
 
 @media (max-width: 43.75rem) {
   body {
-    background: url(../img/image-hero-mobile.webp) no-repeat top 410px center;
+    background: url(../img/image-hero-mobile.webp) no-repeat top 433px center;
   }
   .container {
     margin: 1rem 1rem 0 1rem;
@@ -299,8 +332,7 @@ body {
   }
   .intro__info {
     text-align: left;
-    max-width: 19.5rem;
-    margin: 1.625rem 0 1.5rem 0;
+    max-width: 310px;
   }
   .courses {
     grid-template-columns: 1fr;
@@ -326,6 +358,9 @@ body {
   }
   .btn--link {
     margin-top: 1.5rem;
+  }
+  .header.footer {
+    padding: 2.25rem 0;
   }
 }
 

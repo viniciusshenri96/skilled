@@ -253,13 +253,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
    > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 --- -->
+<br>
+
+---
 
 ## 🦸 Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
-  <img style="border-radius: 50%;" src="./assets/img/avatar.jpg" width="100px;" alt=""/>
- <br />
- <sub><b>Vinícius Henrique</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+<a href="https://www.frontendmentor.io/profile/viniciushenrique2015">
+  <!-- <img style="border-radius: 50%;" src="./assets/img/avatar.jpg" width="100px;" alt=""/> -->
+ <sub><h2 style="font-style: normal; color:">Vinícius Henrique</></sub>
  <br />
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho)  -->
