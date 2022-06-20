@@ -263,11 +263,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <!-- <img style="border-radius: 50%;" src="./assets/img/avatar.jpg" width="100px;" alt=""/> -->
  <sub><h2 style="font-style: normal; color:">Vinícius Henrique</></sub>
  <br />
-<<<<<<< HEAD
-
-=======
 	 </a>
->>>>>>> 20e106c7d7ea345a89f7c7d8e80ac029c46df96e
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho)  -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinícius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinícius-henrique-7a2533229/)](https://www.linkedin.com/in/vinícius-henrique-7a2533229/)
