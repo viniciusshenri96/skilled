@@ -143,6 +143,7 @@ body {
 }
 .courses--bg {
   background: linear-gradient(180deg, #ffffff 0%, #f0f1ff 100%);
+  width: 100%;
 }
 .courses {
   display: grid;
