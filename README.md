@@ -159,6 +159,9 @@ $ npm run start
 ```
 
 --- -->
+## 🌎 Preview Site
+
+- [GitPages](https://viniciusshenri96.github.io/skilled/)
 
 ## 🛠 Tecnologias
 
